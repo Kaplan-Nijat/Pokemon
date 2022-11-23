@@ -1,0 +1,158 @@
+.card-text {
+    font-size: 10px;
+    text-align: center;
+}
+
+body {
+    background-color: white;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+.col {
+    padding: 0;
+}
+
+.water-type {
+    background-image: url('type-bg/water-type.png');
+    width: 100%;
+    color: white;
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fire-type {
+    background-image: url('type-bg/fire-type.png');
+    width: 100%;
+    color: white;
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.grass-type {
+    background-image: url('type-bg/grass-type.png');
+    width: 100%;
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.electric-type {
+    background-image: url('type-bg/electric-type.png');
+    width: 100%;
+    color: white;
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bug-type {
+    background-image: url('type-bg/bug-type.png');
+    width: 100%;
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ghost-type {
+    background-image: url('type-bg/ghost-type.png');
+    width: 100%;
+    color: white;
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.normal-type {
+    background-image: url('type-bg/normal-type.png');
+    width: 100%;
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.psychic-type {
+    background-image: url('type-bg/psychic-type.png');
+    width: 100%;
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dragon-type {
+    background-image: url('type-bg/dragon-type.png');
+    width: 100%;
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ice-type {
+    background-image: url('type-bg/ice-type.png');
+    width: 100%;
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.poison-type {
+    background-image: url('type-bg/poison-type.png');
+    width: 100%;
+    color: white;
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ground-type {
+    background-image: url('type-bg/ground-type.png');
+    width: 100%;
+    color: white;
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rock-type {
+    background-image: url('type-bg/rock-type.png');
+    width: 100%;
+    color: white;
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fighting-type {
+    background-image: url('type-bg/fighting-type.png');
+    width: 100%;
+    color: white;
+    border-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.default {
+    background-color: white;
+}
+
+.btn-primary {
+    background-color: red;
+    border-color: white;
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.btn-warning {
+    background-color: red;
+    border-color: white;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.select-type {
+    color: white;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+    text-align: center;
+    color: lime;
+    font-size: 50px;
+}
+
+.form-select {
+    background-color: rgb(233, 233, 101);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
